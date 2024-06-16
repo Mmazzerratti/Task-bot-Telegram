@@ -1,4 +1,4 @@
-# Телеграм-бот для управления задачником
+# Телеграм-бот задачник
 
 ![59796d144337e108928894d513fc4b5c](https://github.com/Mmazzerratti/Task-bot-Telegram/assets/172944663/52fea5ac-de7d-44cd-a982-f66aa266fe44)
 
